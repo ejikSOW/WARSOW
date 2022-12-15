@@ -2,6 +2,7 @@
 клиентская часть WARSOW
 
 @WARSOW клиентский мод для сервера ARMA 3
+
 @WARSOWSERVER серверный мод для сервера ARMA 3
 
 install
